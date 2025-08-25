@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "roundN": 1,
+    "matchN": 1,
+    "teamA": "Team Alpha",
+    "teamB": "Team Omega",
+    "teamAImgUrl": "/team-a-logo.png",
+    "teamBImgUrl": "/team-b-logo.png",
+    "score": "3-2",
+    "date": "2025-08-25T18:00:00Z",
+    "teamAPlayers": [
+      {
+        "id": 101,
+        "username": "AlphaWarrior",
+        "playerTag": "#AW101"
+      },
+      {
+        "id": 102,
+        "username": "AlphaSniper",
+        "playerTag": "#AS102"
+      }
+    ],
+    "teamBPlayers": [
+      {
+        "id": 201,
+        "username": "OmegaKnight",
+        "playerTag": "#OK201"
+      },
+      {
+        "id": 202,
+        "username": "OmegaMage",
+        "playerTag": "#OM202"
+      }
+    ],
+    "gameLogoUrl": "/logo.png",
+    "gameBannerUrl": "/banner.png"
+  },
+  {
+    "id": 2,
+    "roundN": 2,
+    "matchN": 2,
+    "teamA": "Crimson Hawks",
+    "teamB": "Shadow Wolves",
+    "teamAImgUrl": "/team-a-logo.png",
+    "teamBImgUrl": "/team-b-logo.png",
+    "date": "2025-08-28T20:30:00Z",
+    "teamAPlayers": [
+      {
+        "id": 103,
+        "username": "CrimsonBlade",
+        "playerTag": "#CB103"
+      },
+      {
+        "id": 104,
+        "username": "HawkEye",
+        "playerTag": "#HE104"
+      }
+    ],
+    "teamBPlayers": [
+      {
+        "id": 203,
+        "username": "ShadowFang",
+        "playerTag": "#SF203"
+      },
+      {
+        "id": 204,
+        "username": "WolfSpirit",
+        "playerTag": "#WS204"
+      }
+    ],
+    "gameLogoUrl": "/logo.png",
+    "gameBannerUrl": "/banner.png"
+  }
+]
+
+
